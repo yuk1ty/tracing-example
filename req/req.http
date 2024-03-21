@@ -1,0 +1,16 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "name": "John Doe"
+}
+
+###
+
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "name": "Yo"
+}
+
